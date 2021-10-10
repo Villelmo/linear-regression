@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # reading data from the csv 
-data = pd.read_csv('/home/lulu/Descargas/train.csv')
+data = pd.read_csv('train.csv')
 
 # defining the variables 
 x = data['x'].tolist()

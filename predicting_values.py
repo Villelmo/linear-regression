@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np 
 
 # reading data from the csv
-data = pd.read_csv('/home/lulu/Descargas/train.csv')
+data = pd.read_csv('train.csv')
 
 # plotting the original values 
 x = data['x'].tolist()
