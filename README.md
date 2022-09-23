@@ -1,4 +1,4 @@
-# linear-regression
+# Linear-regression
 Linear regression example
 ## An introduction to machine learning with scikit-learn
 ### Machine learning: the problem setting
